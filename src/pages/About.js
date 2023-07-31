@@ -26,7 +26,7 @@ const About = () => {
           },
         }}
       >
-        <Typography variant="h4">Welcome To My Resturant</Typography>
+        <Typography variant="h4">Welcome To Baba Ka Dhaba</Typography>
         <h4>BABA KA DHABA</h4>
         <p>
           Since our modest beginnings in 2005 with a little space in Toronto’s
