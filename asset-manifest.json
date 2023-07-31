@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/babakadhaba/static/css/main.67f93911.css",
+    "main.js": "/babakadhaba/static/js/main.4b9fe402.js",
+    "static/js/787.091bb736.chunk.js": "/babakadhaba/static/js/787.091bb736.chunk.js",
+    "static/media/pexels-vincent-ma-janssen-1310777.jpg": "/babakadhaba/static/media/pexels-vincent-ma-janssen-1310777.b27a0d00fec731e70b1e.jpg",
+    "static/media/masala.jpg": "/babakadhaba/static/media/masala.f4dd64f4906d42ddcbdb.jpg",
+    "static/media/chhola.jpg": "/babakadhaba/static/media/chhola.a1458ef1370699c23212.jpg",
+    "static/media/paneer.jpg": "/babakadhaba/static/media/paneer.f04d2c563fe596463e47.jpg",
+    "static/media/idli.jpg": "/babakadhaba/static/media/idli.dc2d98fda6c7a903c64b.jpg",
+    "static/media/gujrati.jpeg": "/babakadhaba/static/media/gujrati.77bd2d3baa11e6cf3dcd.jpeg",
+    "static/media/dosa.jpg": "/babakadhaba/static/media/dosa.5c938f456ea86779ba13.jpg",
+    "index.html": "/babakadhaba/index.html",
+    "main.67f93911.css.map": "/babakadhaba/static/css/main.67f93911.css.map",
+    "main.4b9fe402.js.map": "/babakadhaba/static/js/main.4b9fe402.js.map",
+    "787.091bb736.chunk.js.map": "/babakadhaba/static/js/787.091bb736.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67f93911.css",
+    "static/js/main.4b9fe402.js"
+  ]
+}
