@@ -3,7 +3,9 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Menu from "./pages/Menu";
+// import Login from "../pages/Login";
 import Pagenotfound from "./pages/Pagenotfound";
+import Signup from "./pages/Signup";
 function App() {
   return (
     <div>
@@ -13,6 +15,9 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/menu" element={<Menu />} />
+          {/* <Route path="/login" element={<Login />} /> */}
+          <Route path="/signup" element={<Signup />} />
+
           <Route path="*" element={<Pagenotfound />} />
         </Routes>
       </BrowserRouter>
