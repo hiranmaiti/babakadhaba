@@ -6,6 +6,7 @@ import Menu from "./pages/Menu";
 // import Login from "../pages/Login";
 import Pagenotfound from "./pages/Pagenotfound";
 import Signup from "./pages/Signup";
+import Login from "./pages/Login";
 function App() {
   return (
     <div>
@@ -17,6 +18,7 @@ function App() {
           <Route path="/menu" element={<Menu />} />
           {/* <Route path="/login" element={<Login />} /> */}
           <Route path="/signup" element={<Signup />} />
+          <Route path="/login" element={<Login />} />
 
           <Route path="*" element={<Pagenotfound />} />
         </Routes>
